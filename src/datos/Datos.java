@@ -17,6 +17,11 @@ public class Datos {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Gabriel Josue Marquez Torres");
+        System.out.println("Rocio Vanesa Gardea Hernandez");
+        System.out.println("Victor Adrian Romero");
+        System.out.println("David Licona Rios");
+        System.out.println("Jesus Loya");
     }
     
 }
